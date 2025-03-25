@@ -50,4 +50,4 @@
 
 > 💡 **Pro Tip**: The conditional column approach makes this analysis easily maintainable for business users!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/dinesh-raghavendra-ss)
+
