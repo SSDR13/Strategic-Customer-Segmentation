@@ -1,6 +1,6 @@
 # 🎯 Strategic Customer Segmentation | Power BI
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Strategic-Customer-Segmentation.png)
 
 *A data-driven approach to identifying high-value customer tiers*
 
@@ -42,12 +42,12 @@
    - Click visuals to cross-filter
 
 ## 📂 Repository Files
-- `Customer_Segmentation.pbix` - Power BI file
-- `dashboard_preview.png` - Dashboard snapshot
+- `Strategic-Customer-Segmentation.pbix` - Power BI file
+- `Strategic-Customer-Segmentation.png` - Dashboard snapshot
 - `mall_customers.csv` - Sample data
 
 ---
 
 > 💡 **Pro Tip**: The conditional column approach makes this analysis easily maintainable for business users!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?logo=linkedin)](your_profile_url)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/dinesh-raghavendra-ss)
